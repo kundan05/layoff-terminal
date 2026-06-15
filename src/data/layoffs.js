@@ -1,3 +1,5 @@
+import liveData from './layoffs-live.json';
+
 export let lastUpdated = null;
 export let rawLayoffs = [];
 export let layoffData = [];
@@ -14,11 +16,9 @@ export async function loadLayoffData() {
       throw new Error("API Fetch Failed");
     }
   } catch (e) {
-    console.error("Backend unreachable. Ensure server/index.js is running.");
-    // Emergency static fallback if backend is down
-    rawLayoffs = [
-      { company: "Oracle", industry: "Technology", headcount: 30000, date: "2026-03-31", hq: { city: "Austin", country: "USA", lat: 30.2672, lng: -97.7431 }, impacts: [{ city: "Austin", country: "USA", lat: 30.2672, lng: -97.7431, count: 18000 }, { city: "Bangalore", country: "India", lat: 12.9716, lng: 77.5946, count: 12000 }], reason: "Restructuring and aggressive shift toward AI infrastructure computing" }
-    ];
+    console.warn("Backend unreachable. Using static bundled data.");
+    rawLayoffs = liveData;
+    lastUpdated = new Date().toISOString();
   }
 
   layoffData = rawLayoffs.map(d => {
@@ -27,10 +27,10 @@ export async function loadLayoffData() {
       industry: d.industry,
       headcount: d.headcount,
       date: d.date,
-      city: d.hq.city,
-      country: d.hq.country,
-      lat: d.hq.lat,
-      lng: d.hq.lng,
+      city: d.hq?.city || d.location?.city,
+      country: d.hq?.country || d.location?.country,
+      lat: d.hq?.lat,
+      lng: d.hq?.lng,
       reason: d.reason,
       source_url: d.source_url
     };
