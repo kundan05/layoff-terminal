@@ -1,0 +1,14 @@
+{
+  "lastUpdated": "2026-06-12T11:04:03.131Z",
+  "totalEvents": 2941,
+  "newEventsThisRun": 2437,
+  "duplicatesSkipped": 515,
+  "syntheticFlagged": 2,
+  "yearTotals": {
+    "2022": 171183,
+    "2023": 359155,
+    "2024": 192888,
+    "2025": 192595,
+    "2026": 192029
+  }
+}

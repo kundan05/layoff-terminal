@@ -1,0 +1,671 @@
+{
+  "Ibadan, Nigeria": {
+    "lat": 7.3786064,
+    "lng": 3.8969928
+  },
+  "Albany, United States": {
+    "lat": 42.6511674,
+    "lng": -73.754968
+  },
+  "Philadelphia, United States": {
+    "lat": 39.9527237,
+    "lng": -75.1635262
+  },
+  "Phoenix, United States": {
+    "lat": 33.4484367,
+    "lng": -112.074141
+  },
+  "Walldorf, Germany": {
+    "lat": 49.3038134,
+    "lng": 8.6433518
+  },
+  "Portland, United States": {
+    "lat": 45.5202471,
+    "lng": -122.674194
+  },
+  "Washington D.C., United States": {
+    "lat": 38.8950982,
+    "lng": -77.0363849
+  },
+  "Oxford, United States": {
+    "lat": 34.3663773,
+    "lng": -89.5187664
+  },
+  "Shenzen, China": null,
+  "San Diego, United States": {
+    "lat": 32.7174202,
+    "lng": -117.162772
+  },
+  "St. Louis, United States": {
+    "lat": 38.6254063,
+    "lng": -90.190009
+  },
+  "Salt Lake City, United States": {
+    "lat": 40.7596198,
+    "lng": -111.886797
+  },
+  "Gurugram, India": {
+    "lat": 28.4646148,
+    "lng": 77.0299194
+  },
+  "Lagos, Nigeria": {
+    "lat": 6.4550575,
+    "lng": 3.3941795
+  },
+  "Stamford, United States": {
+    "lat": 41.0534302,
+    "lng": -73.5387341
+  },
+  "San Luis Obispo, United States": {
+    "lat": 35.3540209,
+    "lng": -120.375716
+  },
+  "Reno, United States": {
+    "lat": 39.5261788,
+    "lng": -119.812658
+  },
+  "Winnipeg, Canada": {
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  "Detroit, United States": {
+    "lat": 42.3315509,
+    "lng": -83.0466403
+  },
+  "Ottawa, Canada": {
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  "Columbus, United States": {
+    "lat": 39.9622601,
+    "lng": -83.0007065
+  },
+  "Curitiba, Brazil": {
+    "lat": -25.4295963,
+    "lng": -49.2712724
+  },
+  "Atlanta, United States": {
+    "lat": 33.7544657,
+    "lng": -84.3898151
+  },
+  "Moscow, Russia": {
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  "Miami, United States": {
+    "lat": 25.7741566,
+    "lng": -80.1935973
+  },
+  "Non-U.S., China": {
+    "lat": 37.1520802,
+    "lng": 77.0543797
+  },
+  "New Delhi, India": {
+    "lat": 28.6138954,
+    "lng": 77.2090057
+  },
+  "Ahmedabad, India": {
+    "lat": 23.0215374,
+    "lng": 72.5800568
+  },
+  "Charleston, United States": {
+    "lat": 32.7884363,
+    "lng": -79.9399309
+  },
+  "Baton Rouge, United States": {
+    "lat": 30.4494155,
+    "lng": -91.1869659
+  },
+  "Denver, United States.": {
+    "lat": 39.7392364,
+    "lng": -104.984862
+  },
+  "Ann Arbor, United States": {
+    "lat": 42.2813722,
+    "lng": -83.7484616
+  },
+  "San Antonio, United States": {
+    "lat": 29.4246002,
+    "lng": -98.4951405
+  },
+  "Tallinn, Estonia": {
+    "lat": 59.437242,
+    "lng": 24.7572693
+  },
+  "Frankfurt, Germany": {
+    "lat": 50.1106444,
+    "lng": 8.6820917
+  },
+  "Barcelona, Spain": {
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  "Karlsruhe, Germany": {
+    "lat": 49.0068705,
+    "lng": 8.4034195
+  },
+  "Montreal, Canada": {
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  "Calgary, Canada": {
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  "Denver, United States": {
+    "lat": 39.7392364,
+    "lng": -104.984862
+  },
+  "Boulder, United States": {
+    "lat": 40.0149856,
+    "lng": -105.270545
+  },
+  "Wilmington, United States": {
+    "lat": 39.7459468,
+    "lng": -75.546589
+  },
+  "Bogota, Colombia": {
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  "Indore, India": {
+    "lat": 22.7203616,
+    "lng": 75.8681996
+  },
+  "Nashville, United States": {
+    "lat": 36.1622767,
+    "lng": -86.7742984
+  },
+  "Cincinnati, United States": {
+    "lat": 39.1014537,
+    "lng": -84.5124602
+  },
+  "Vienna, Austria": {
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  "Brisbane, Australia": {
+    "lat": -27.365991,
+    "lng": 152.948963
+  },
+  "Sacramento, United States": {
+    "lat": 38.5810606,
+    "lng": -121.493895
+  },
+  "Buenos Aires, Argentina": {
+    "lat": -34.6095579,
+    "lng": -58.3887904
+  },
+  "Mexico City, Mexico": {
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  "Waterloo, Canada": {
+    "lat": 43.4652699,
+    "lng": -80.5222961
+  },
+  "Gothenburg, Sweden": {
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  "Nairobi, Kenya": {
+    "lat": -1.3026148,
+    "lng": 36.828842
+  },
+  "Dover, United States": {
+    "lat": 39.158168,
+    "lng": -75.5243682
+  },
+  "Logan, United States": {
+    "lat": 40.1075089,
+    "lng": -89.3768539
+  },
+  "Nebraska City, United States": {
+    "lat": 40.676526,
+    "lng": -95.858694
+  },
+  "Charlotte, United States": {
+    "lat": 35.2272086,
+    "lng": -80.8430827
+  },
+  "Copenhagen, United States": {
+    "lat": 43.893439,
+    "lng": -75.673828
+  },
+  "Grand Rapids, United States": {
+    "lat": 42.9632425,
+    "lng": -85.6678639
+  },
+  "Oslo, Sweden": {
+    "lat": 59.9172239,
+    "lng": 10.7209721
+  },
+  "Oslo, Norway": {
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  "Pittsburgh, United States": {
+    "lat": 40.4406968,
+    "lng": -80.0025666
+  },
+  "Jerusalem, Israel": {
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  "Belo Horizonte, Brazil": {
+    "lat": -19.9227318,
+    "lng": -43.9450948
+  },
+  "Lehi, United States": {
+    "lat": 40.3881114,
+    "lng": -111.8486019
+  },
+  "The Hague, Netherlands": {
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  "Birmingham, United States.": {
+    "lat": 33.5206824,
+    "lng": -86.8024326
+  },
+  "Mexico City, United States": {
+    "lat": 40.4376312,
+    "lng": -80.0005312
+  },
+  "Bangkok, Thailand": {
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  "Copenhagen, Denmark": {
+    "lat": 55.6867243,
+    "lng": 12.5700724
+  },
+  "Vilnius, Lithuania": {
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  "Ferdericton, Canada": null,
+  "Dakar, Senegal": {
+    "lat": 14.693425,
+    "lng": -17.447938
+  },
+  "Florianópolis, Brazil": {
+    "lat": -27.5973002,
+    "lng": -48.5496098
+  },
+  "Louisville, United States": {
+    "lat": 38.2542376,
+    "lng": -85.759407
+  },
+  "Nashua, United States": {
+    "lat": 42.7656251,
+    "lng": -71.4677032
+  },
+  "Helsinki, Finland": {
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  "Malmo, Sweden": {
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  "Brasilia, Brazil": {
+    "lat": -10.3333333,
+    "lng": -53.2
+  },
+  "Bucharest, Romania": {
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  "Davenport, United States": {
+    "lat": 41.5235808,
+    "lng": -90.5770967
+  },
+  "Toulouse, France": {
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  "Non-U.S., Seychelles": null,
+  "Las Vegas, United States": {
+    "lat": 36.1674263,
+    "lng": -115.1484131
+  },
+  "Edinburgh, United Kingdom": {
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  "Sofia, Bulgaria": {
+    "lat": 42.6977028,
+    "lng": 23.3217359
+  },
+  "Spokane, United States": {
+    "lat": 47.6571934,
+    "lng": -117.42351
+  },
+  "Noida, India": {
+    "lat": 28.5706333,
+    "lng": 77.3272147
+  },
+  "Joinville, Brazil": {
+    "lat": -26.3044898,
+    "lng": -48.8486726
+  },
+  "Zurich, Switzerland": {
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  "Minneapolis, United States": {
+    "lat": 44.9772995,
+    "lng": -93.2654692
+  },
+  "Guadalajara, Mexico": {
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  "Santa Fe, United States": {
+    "lat": 35.6876096,
+    "lng": -105.938456
+  },
+  "Lisbon, Portugal": {
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  "Yangon, Myanmar": {
+    "lat": 16.7967129,
+    "lng": 96.1609916
+  },
+  "Shenzhen, China": {
+    "lat": 22.5445741,
+    "lng": 114.0545429
+  },
+  "Hangzhou, China": {
+    "lat": 30.2489634,
+    "lng": 120.2052342
+  },
+  "Mainz, Germany": {
+    "lat": 49.9995205,
+    "lng": 8.2736253
+  },
+  "Cambridge, United States": {
+    "lat": 42.3656347,
+    "lng": -71.1040018
+  },
+  "Santa Monica, United States": {
+    "lat": 34.0194704,
+    "lng": -118.491227
+  },
+  "Cupertino, United States": {
+    "lat": 37.3228934,
+    "lng": -122.0322895
+  },
+  "Los Gatos, United States": {
+    "lat": 37.226611,
+    "lng": -121.9746797
+  },
+  "São Paulo, Brazil": {
+    "lat": -23.5506507,
+    "lng": -46.6333824
+  },
+  "Seoul, South Korea": {
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  "Armonk, United States": {
+    "lat": 41.132973,
+    "lng": -73.7126064
+  },
+  "Suwon, South Korea": {
+    "lat": 37.2633325,
+    "lng": 127.0287472
+  },
+  "Bogotá, Colombia": {
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  "Redmond, United States": {
+    "lat": 47.6694141,
+    "lng": -122.1238767
+  },
+  "Round Rock, USA": {
+    "lat": 30.5085915,
+    "lng": -97.6788056
+  },
+  "Redmond, USA": {
+    "lat": 47.6694141,
+    "lng": -122.1238767
+  },
+  "Burbank, USA": {
+    "lat": 34.1812089,
+    "lng": -118.307201
+  },
+  "Armonk, USA": {
+    "lat": 41.132973,
+    "lng": -73.7126064
+  },
+  "Boise, USA": {
+    "lat": 43.6166163,
+    "lng": -116.200886
+  },
+  "Global, Multi": {
+    "lat": 42.9835575,
+    "lng": -82.3360676
+  },
+  "Atlanta, USA": {
+    "lat": 33.7544657,
+    "lng": -84.3898151
+  },
+  "Midland, USA": {
+    "lat": 31.83688,
+    "lng": -102.0103767
+  },
+  "California, USA": {
+    "lat": 36.7014631,
+    "lng": -118.755997
+  },
+  "Novo Nordisk, USA": {
+    "lat": 47.6241326,
+    "lng": -122.333753
+  },
+  "Fremont, USA": {
+    "lat": 37.5482697,
+    "lng": -121.988571
+  },
+  "Pleasanton, USA": {
+    "lat": 37.6624312,
+    "lng": -121.8746789
+  },
+  "San Diego, USA": {
+    "lat": 32.7174202,
+    "lng": -117.162772
+  },
+  "Santa Monica, USA": {
+    "lat": 34.0194704,
+    "lng": -118.491227
+  },
+  "Pittsburgh, USA": {
+    "lat": 40.4406968,
+    "lng": -80.0025666
+  },
+  "Malvern, USA": {
+    "lat": 41.0024095,
+    "lng": -95.5851939
+  },
+  "Dearborn, USA": {
+    "lat": 42.3222599,
+    "lng": -83.1763145
+  },
+  "Irvine, USA": {
+    "lat": 33.6856969,
+    "lng": -117.825981
+  },
+  "Auburn Hills, USA": {
+    "lat": 42.6875323,
+    "lng": -83.2341028
+  },
+  "Bethesda, USA": {
+    "lat": 38.9812726,
+    "lng": -77.1233587
+  },
+  "Bentonville, USA": {
+    "lat": 36.3728608,
+    "lng": -94.208787
+  },
+  "Richfield, USA": {
+    "lat": 44.8766431,
+    "lng": -93.2877877
+  },
+  "Woonsocket, USA": {
+    "lat": 42.0028761,
+    "lng": -71.5147839
+  },
+  "Deerfield, USA": {
+    "lat": 42.1711365,
+    "lng": -87.8445119
+  },
+  "Beaverton, USA": {
+    "lat": 45.4871723,
+    "lng": -122.80378
+  },
+  "Framingham, USA": {
+    "lat": 42.2773177,
+    "lng": -71.4165905
+  },
+  "Cupertino, USA": {
+    "lat": 37.3228934,
+    "lng": -122.0322895
+  },
+  "selwgWRJpOwx2s1A9, India": null,
+  "selKhBn9WkXIaFjXW, United States": null,
+  "sel0J06wr01JGpsFy, Israel": null,
+  "selaY0t9IlOz71lPt, United States": null,
+  "sel5xiC0Ea96agbCM, Israel": null,
+  "sel25TgcklBIu2Pc9, United States": null,
+  "selTu0xn10SaLljFb, Nigeria": null,
+  "seleVPe9lIR1sEHHM, Egypt": null,
+  "selKvc63rVmAiGnnw, United States": null,
+  "selprHZCA5IBMRI4w, Germany": null,
+  "selVkoj0prSbOGAkf, United States": null,
+  "selFS1Swg3gzJEQZA, India": null,
+  "selgFxl6Lt3VPQX8L, Germany": null,
+  "sel4xFmzIJcPrnGBs, United States": null,
+  "selPpUAbFDtCIX7St, Germany": null,
+  "selVccWCxrqKzJW5Q, Sweden": null,
+  "selB67XnFfugyCbCy, United States": null,
+  "sel2G1zCM0Ou4BlUO, Canada": null,
+  "sel6A2z5gDHYTOlhn, United States": null,
+  "sel1JO3CBheVBVjsw, India": null,
+  "selgGzla9A7nyQNRS, Norway": null,
+  "selikglG4EfhvW2KN, United States": null,
+  "seljtSmUyf7jQltI7, India": null,
+  "selkzy2L9E45LO8et, Kenya": null,
+  "selpUWrqn4X9Magb1, United States": null,
+  "sel8UQ6HE8ydVnaLO, Australia": null,
+  "selnBHRWdTxvcfNCY, United Kingdom": null,
+  "selRmHPAawDFtEzPl, United States": null,
+  "selorwS3RXTcmEvr7, United States": null,
+  "seleoaHXTozvws2cq, Cyprus": null,
+  "selr6QKZR8jF0fNQT, Germany": null,
+  "selhkxwVElBFxJGI0, United States": null,
+  "sel6aGsR77X23uL1D, Brazil": null,
+  "selh1UXiAoacwyW34, Canada": null,
+  "selv2ElZ21pV8mEd6, Australia": null,
+  "selSMGjYDL3JsHfVa, Canada": null,
+  "selYiBJ1yEJgiIDEH, United States": null,
+  "sel8LhBnIv1iLQqVU, Australia": null,
+  "selUIARvta4ZrMQ4S, United States": null,
+  "sel0J06wr01JGpsFy, United States": null,
+  "selKhBn9WkXIaFjXW, Israel": null,
+  "selZLD5laPe5KgpN8, New Zealand": null,
+  "selwa7TpEbfXlWnXF, India": null,
+  "selUX5vgyii0v05aq, Czech Republic": null,
+  "selyzDmI1qq4ffxWB, Netherlands": null,
+  "sel6zfIHW3gTnSAVg, Turkey": null,
+  "sel3bA6y4VBmZMWko, Cayman Islands": null,
+  "selCcHevQObi36t9x, Germany": null,
+  "selYTScIlgJg3mW4X, Brazil": null,
+  "selATSq4b2rkhmaNp, United States": null,
+  "sel6oI7oGR44lKywz, United States": null,
+  "sel1prhJRTfHjJ4ov, United States": null,
+  "selvlKdEcs9eIZFYD, Denmark": null,
+  "selr2r88sfSB7wsIz, Uruguay": null,
+  "selBXVN2jsIanV7bc, United States": null,
+  "sel7wcTik9fy2RqdL, United States": null,
+  "selF1QVyJ96sezHrK, Israel": null,
+  "selRITak4RAaxn4qq, United States": null,
+  "selZh8abvXNXuJdRi, United States": null,
+  "sels8lax0armSbwBX, United States": null,
+  "selCmjiWBHCPCkVJU, United States": null,
+  "selesQ4PtGz0Y6Fs9, Germany": null,
+  "selNjmsZsehYeEOj1, United States": null,
+  "selL2RLILSbq3KyJI, Canada": null,
+  "selDvGU9jgzyFGjHD, United States": null,
+  "selUp4VnbpVCMhsbU, United States": null,
+  "selW4JTVnIjx9U7ne, United States": null,
+  "seltK09KKoE5TripE, Indonesia": null,
+  "selYWIFy2zbpexk1I, India": null,
+  "seloi8aVwn0mCsQ2j, United States": null,
+  "sel0TzNLVAIZ25jVC, Spain": null,
+  "selcJq9rS1JZqKNJe, United States": null,
+  "selzx25J5Isdd3u4a, Japan": null,
+  "selJ60UjzMd4q4QLo, United States": null,
+  "selhDgQcsNXCuWXQj, United States": null,
+  "selfr7adlwlHnM6Xx, Singapore": null,
+  "selncisFSdN0ug57t, Czech Republic": null,
+  "sel7elf123EMITQRg, Belgium": null,
+  "selboQLfgL3JfkaSP, France": null,
+  "selxkG8blZFCjgL4U, Spain": null,
+  "selUuwGJduRp56mJ3, Ireland": null,
+  "sel8YSDzlB3j631Qq, Chile": null,
+  "selTA8TPTtocWVbA9, Israel": null,
+  "selTLr9wRtsxyyyk7, United States": null,
+  "selHO4Xi7UszSHcmc, Netherlands": null,
+  "selkAKjQgaDhIReia, United States": null,
+  "selEHIWQ5r9QoerEQ, United States": null,
+  "sel74Pnv9XRkPJuAT, Poland": null,
+  "selQVd9VqHRNJepi1, India": null,
+  "selAv0seCZsHLEbta, United States": null,
+  "selwobGf3WtmUmfl2, United States": null,
+  "sel0ofBBlidnSk1d5, Austria": null,
+  "selXqX9mi9faJxBc9, United States": null,
+  "sel75E6bSZAPnyuHL, Estonia": null,
+  "selfAVtFIEg0apJ6K, Germany": null,
+  "seloSicceO9TA2Wo8, Canada": null,
+  "selpH2ilYVicoYnsb, United States": null,
+  "selV6U6cAIOPvCR52, United States": null,
+  "sel5hPw427BgUgiey, United States": null,
+  "selpUWrqn4X9Magb1, Israel": null,
+  "selJLwC3AOyAmWzkT, China": null,
+  "selZ7tUDkdxCN3f31, Poland": null,
+  "selogQEBOGFq6OVrv, United States": null,
+  "selr9EhEwfQ58gPKp, Nigeria": null,
+  "selLhgOl1cxlZcDDk, United States": null,
+  "selpfk6czqNyy8bBi, Finland": null,
+  "selV50Swcs28N2LQT, China": null,
+  "selMi3Mre9zsq25fJ, Canada": null,
+  "selYJ2gEbSvQWckhv, United States": null,
+  "sel4yQUM4CpLzDaRs, United States": null,
+  "selkBcOaowCpBQoqT, United States": null,
+  "selWEMdFxcNFMQtlc, Brazil": null,
+  "selPds2Bqflc59VEE, Ghana": null,
+  "selRDJmGFZUE8OUN8, India": null,
+  "selOXyZgcvsfYMtg7, Norway": null,
+  "seld5JtSM4vdaZqfn, United Kingdom": null,
+  "selbL9DFasdceSRxd, New Zealand": null,
+  "selyoDM6HWeDqToNd, United States": null,
+  "selikglG4EfhvW2KN, Canada": null,
+  "selxMhKcGCrJnl5Ri, United States": null,
+  "sely9MrB4M3UkiAH7, Norway": null,
+  "selulLRA47dkdEV1m, United States": null,
+  "selYIlx3TbTRjmgwo, South Korea": null,
+  "selsSHgwTjWfageC3, United States": null,
+  "selPnzTxhYC5oGiKq, United States": null,
+  "selBOpva0rdBaQVmq, Israel": null,
+  "selbdhUBymzkC0dTx, Romania": null,
+  "selqWo2hY6waBCaLa, United States": null,
+  "selRYIHFmfyQbaxxT, Saudi Arabia": null,
+  "selTnXrj0IHuXjQW4, Poland": null,
+  "selxZ786hHsYfggLY, United States": null,
+  "sel3AbkWOubl12Np9, United States": null,
+  "seluRYVfoEOaqT7Zt, China": null,
+  "sel9hYfz1VjbxpevF, United States": null
+}

@@ -1,0 +1,66 @@
+/* ── BOOT SEQUENCE ────────────────────────────────────── */
+.boot-screen {
+    position: absolute;
+    inset: 0;
+    background-color: #02040a;
+    z-index: 999999;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 1s ease;
+    font-family: var(--font-mono);
+    background-image: repeating-linear-gradient(0deg, transparent, transparent 1px, rgba(0, 255, 170, 0.05) 1px, rgba(0, 255, 170, 0.05) 2px);
+}
+
+.boot-container {
+    max-width: 600px;
+    width: 100%;
+}
+
+.boot-text {
+    color: var(--green);
+    font-size: 14px;
+    line-height: 1.6;
+    text-shadow: 0 0 4px var(--green);
+    margin-bottom: 30px;
+}
+
+.boot-line {
+    min-height: 22px;
+}
+
+.init-btn {
+    background: transparent;
+    color: var(--cyan);
+    border: 1px solid var(--cyan);
+    padding: 12px 24px;
+    font-family: var(--font-mono);
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 212, 255, 0.2), inset 0 0 10px rgba(0, 212, 255, 0.1);
+    transition: all 0.2s ease;
+    animation: pulse-border 2s infinite;
+}
+
+.init-btn:hover {
+    background: rgba(0, 212, 255, 0.1);
+    box-shadow: 0 0 20px rgba(0, 212, 255, 0.5), inset 0 0 15px rgba(0, 212, 255, 0.3);
+    text-shadow: 0 0 8px var(--cyan);
+}
+
+@keyframes pulse-border {
+    0% {
+        box-shadow: 0 0 5px rgba(0, 212, 255, 0.2);
+    }
+
+    50% {
+        box-shadow: 0 0 15px rgba(0, 212, 255, 0.6);
+    }
+
+    100% {
+        box-shadow: 0 0 5px rgba(0, 212, 255, 0.2);
+    }
+}

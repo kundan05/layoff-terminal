@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LAYOFF TERMINAL | Global AI-Era Workforce Disruption Tracker</title>
+  <meta name="description"
+    content="Bloomberg-style real-time terminal tracking global tech layoffs since the AI era began. Interactive 3D globe, live data, and comprehensive analytics." />
+  <link rel="icon" type="image/svg+xml"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>" />
+</head>
+
+<body>
+  <!-- BOOT SEQUENCE -->
+  <div class="boot-screen" id="bootScreen">
+    <div class="boot-container">
+      <div id="bootText" class="boot-text"></div>
+      <button id="initBtn" class="init-btn" style="display:none;">[ INITIALIZE TRACKING GRID ]</button>
+    </div>
+  </div>
+
+  <div class="app" id="app">
+    <!-- TOP BAR -->
+    <header class="topbar">
+      <div class="topbar-left">
+        <div class="logo">
+          <div class="logo-icon">LT</div>
+          LAYOFF TERMINAL
+        </div>
+        <div class="topbar-status">
+          <div class="status-item">
+            <span class="status-dot"></span>
+            <span>DATA LIVE</span>
+          </div>
+          <div class="status-item">
+            <span class="status-dot warning"></span>
+            <span id="totalTracked">—</span>
+          </div>
+          <div class="status-item">
+            <span class="status-dot danger"></span>
+            <span id="eventsTracked">—</span>
+          </div>
+        </div>
+      </div>
+      <div class="topbar-right">
+        <span class="market-badge live">● LIVE</span>
+        <span class="clock" id="clock">--:--:--</span>
+      </div>
+    </header>
+
+    <!-- TICKER -->
+    <div class="ticker" id="ticker"></div>
+
+    <!-- MAIN CONTENT -->
+    <div class="main-content">
+      <!-- GLOBE -->
+      <div class="globe-panel">
+        <div class="panel-header">
+          <span>🌐 GLOBAL LAYOFF MAP</span>
+          <span class="panel-header-right">DRAG TO ROTATE • SCROLL TO ZOOM</span>
+        </div>
+        <div class="globe-container" id="globeContainer">
+          <div class="globe-tooltip" id="globeTooltip"></div>
+        </div>
+      </div>
+
+      <!-- RIGHT PANEL -->
+      <div class="right-panel">
+        <div class="search-bar" id="searchBar">
+          <span class="search-icon">⌕</span>
+          <input type="text" class="search-input" id="searchInput" placeholder="Search company, industry, location..." />
+          <span class="search-hint">/</span>
+        </div>
+        <div class="tab-bar">
+          <button class="tab-btn active" data-tab="table">DATA <span class="tab-shortcut">1</span></button>
+          <button class="tab-btn" data-tab="stats">ANALYTICS <span class="tab-shortcut">2</span></button>
+          <button class="tab-btn" data-tab="details">DETAILS <span class="tab-shortcut">3</span></button>
+        </div>
+        <div class="tab-content">
+          <div class="tab-pane active" id="tab-table">
+            <div class="data-table" id="dataTable"></div>
+          </div>
+          <div class="tab-pane" id="tab-stats"></div>
+          <div class="tab-pane" id="tab-details"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- BOTTOM NEWS BAR -->
+    <div class="bottom-bar">
+      <div class="panel-header">
+        <span>📰 LIVE FEED — LATEST AI LAYOFF NEWS</span>
+        <span class="panel-header-right" id="newsTimestamp">REFRESHING...</span>
+      </div>
+      <div class="news-container" id="newsContainer"></div>
+    </div>
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+
+</html>
