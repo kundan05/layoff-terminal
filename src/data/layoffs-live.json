@@ -1,5 +1,35 @@
 [
   {
+    "company": "Fidelity Investments",
+    "date": "2026-05-15",
+    "location": {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    "layoffs_count": 1000,
+    "industry": "Finance",
+    "source_url": "https://www.reuters.com",
+    "date_collected": "2026-06-15T08:37:47.006Z",
+    "hq": {
+      "city": "Boston",
+      "country": "USA",
+      "lat": 42.3601,
+      "lng": -71.0589
+    },
+    "impacts": [
+      {
+        "city": "Boston",
+        "country": "USA",
+        "lat": 42.3601,
+        "lng": -71.0589,
+        "count": 1000
+      }
+    ],
+    "headcount": 1000,
+    "reason": "Evolved technology and product operating model"
+  },
+  {
     "company": "Opendoor",
     "date": "2026-06-10",
     "location": {
