@@ -1,5 +1,95 @@
 [
   {
+    "company": "Swiggy",
+    "date": "2026-01-25",
+    "location": {
+      "city": "Bengaluru",
+      "state": "KA",
+      "country": "India"
+    },
+    "layoffs_count": 400,
+    "industry": "Food Delivery",
+    "source_url": "https://techcrunch.com",
+    "date_collected": "2026-06-15T08:43:54.383Z",
+    "hq": {
+      "city": "Bengaluru",
+      "country": "India",
+      "lat": 12.9716,
+      "lng": 77.5946
+    },
+    "impacts": [
+      {
+        "city": "Bengaluru",
+        "country": "India",
+        "lat": 12.9716,
+        "lng": 77.5946,
+        "count": 400
+      }
+    ],
+    "headcount": 400,
+    "reason": "Cost cutting before IPO"
+  },
+  {
+    "company": "Ola Electric",
+    "date": "2026-04-10",
+    "location": {
+      "city": "Bengaluru",
+      "state": "KA",
+      "country": "India"
+    },
+    "layoffs_count": 400,
+    "industry": "Automotive",
+    "source_url": "https://techcrunch.com",
+    "date_collected": "2026-06-15T08:43:54.383Z",
+    "hq": {
+      "city": "Bengaluru",
+      "country": "India",
+      "lat": 12.9716,
+      "lng": 77.5946
+    },
+    "impacts": [
+      {
+        "city": "Bengaluru",
+        "country": "India",
+        "lat": 12.9716,
+        "lng": 77.5946,
+        "count": 400
+      }
+    ],
+    "headcount": 400,
+    "reason": "AI automation and efficiency"
+  },
+  {
+    "company": "Byju's",
+    "date": "2026-02-15",
+    "location": {
+      "city": "Bengaluru",
+      "state": "KA",
+      "country": "India"
+    },
+    "layoffs_count": 4000,
+    "industry": "EdTech",
+    "source_url": "https://techcrunch.com",
+    "date_collected": "2026-06-15T08:43:54.383Z",
+    "hq": {
+      "city": "Bengaluru",
+      "country": "India",
+      "lat": 12.9716,
+      "lng": 77.5946
+    },
+    "impacts": [
+      {
+        "city": "Bengaluru",
+        "country": "India",
+        "lat": 12.9716,
+        "lng": 77.5946,
+        "count": 4000
+      }
+    ],
+    "headcount": 4000,
+    "reason": "Financial restructuring"
+  },
+  {
     "company": "Fidelity Investments",
     "date": "2026-05-15",
     "location": {
